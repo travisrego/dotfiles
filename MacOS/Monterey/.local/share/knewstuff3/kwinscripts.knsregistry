@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="210">
+  <name>Latte Activate Launcher Menu</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1221344</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>48292</downloads>
+  <installedfile>/home/travisrego/.local/share/kwin/scripts/activatelattelaunchermenu</installedfile>
+  <id>1221344</id>
+  <releasedate>2018-03-10</releasedate>
+  <summary>A script to activate your launcher menu from a screen edge.&lt;br />
+&lt;br />
+it needs Latte &amp;gt;= v0.7.x</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1221344/9b52a4cf72fa3ca18ef82ff29e2b1af7abb3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1221344/9b52a4cf72fa3ca18ef82ff29e2b1af7abb3.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjA2ODY3NzMiLCJvIjoiMSIsInMiOiI4NDEwYjE3MjA4Y2Q5MjI4NDI2ZTBhMDIyY2QzMmRlMDZkZDVhNGI1M2JjNjRhMTgzMGUwNGY4ODEyZmNmNWEwYTQ2ODFlMDA0MWQyYWEzNWZjMzQ4MjVmNjVlMjllOTA0ODQ0MTQzOTc2MWE1NTdjNjc0OWQ5NGJjZThmOWY4MCIsInQiOjE2ODcyNjgwNTEsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMjUxLjQ4LjI0OSJ9.4_OuS07u3YGimQGCRCWd8iBUJTiNNMWKQ7nlHXeudHs/kwin_script_activatelattelaunchermenu.kwinscript</payload>
+  <tags>linux,gplv2-later,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>Latte Window Colors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1290287</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>72</rating>
+  <downloads>153032</downloads>
+  <installedfile>/home/travisrego/.local/share/kwin/scripts/lattewindowcolors</installedfile>
+  <id>1290287</id>
+  <releasedate>2019-03-23</releasedate>
+  <summary>This is a KWin script that sends window colors information to Latte through dbus interface.&lt;br />
+&lt;br />
+&lt;strong>Requires&lt;/strong>&lt;br />
+    Plasma &amp;gt;= 5.15&lt;br />
+    Latte Git version (upcoming v0.9)&lt;br />
+&lt;br />
+&lt;strong>Install&lt;/strong>&lt;br />
+This is a KWin script and as such it can be...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1290287/1229ac1743d789fd6ba04a734dd3e751074c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1290287/1229ac1743d789fd6ba04a734dd3e751074c.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTMzMzIwMzQiLCJvIjoiMSIsInMiOiIxYTVlOGQyMzRmNGE2Nzc2YjI1YmY3Njc3NWEzMDI0MTI3Yzk3MzcyODMyNzE5ZWI0OTZlNDQ1YzhlNWRjYmE2MDI0NWMxODdmZDYzZmVjZDY5YjUwMWQ4ODM1Yjc5NGQ2M2VmZmNlZDhmZTdiMDI2ZjE3ZjdjOTlkMGQ2Zjk3YSIsInQiOjE2ODcyNjgwNDgsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMjUxLjQ4LjI0OSJ9.HE61mQUYUiVlBYeThM4oDXs_yGScNP6WkNc7hjmoyOU/window-colors-0.2.kwinscript</payload>
+  <tags>unix,colors,gplv2-later,original-product,script,linux,latte,kwin</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>Force Blur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>esjeon</author>
+  <homepage>https://store.kde.org/p/1294604</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>90</rating>
+  <downloads>166642</downloads>
+  <installedfile>/home/travisrego/.local/share/kwin/scripts/forceblur</installedfile>
+  <id>1294604</id>
+  <releasedate>2022-02-17</releasedate>
+  <summary>Force-enable blur effect for user-specified windows</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/02/16/1294604/25d2a853b8055b383e5ede66db535b5c9a68.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/02/16/1294604/25d2a853b8055b383e5ede66db535b5c9a68.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDUxMDIyODkiLCJvIjoiMSIsInMiOiI1NGEyZmNiN2IwNjAyOWRkNjI1MDk2M2YxNDk0MjNhNGRkMjVkODE5YzliYmRmNjI1NWM5OTQ2ODVjNjk0NjFhODMyYTFhNjIwYmU4ZmEwY2FlOGVjNTM4ZjMyOTk1ZDM2ZjJiYmE4YjI2MmQ5OGIzOGEwOWIwYzYwYzg4Nzk0YiIsInQiOjE2ODcyNjc4NDEsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMjUxLjQ4LjI0OSJ9.3ZpXz17cg8TjCHNKNB2xuJ2BEg6UMKR8A-ZtnEoRbHY/forceblur-0.6.1.kwinscript</payload>
+  <tags>unix,blur,original-product,kwin,linux,mit-license</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="210">
+  <name>MACsimize</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yuricbraga</author>
+  <homepage>https://store.kde.org/p/1235050</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>71</rating>
+  <downloads>28852</downloads>
+  <installedfile>/home/travisrego/.local/share/kwin/scripts/macsimize</installedfile>
+  <id>1235050</id>
+  <releasedate>2018-05-14</releasedate>
+  <summary>This is a fork of Aetf kwin-maximize-to-new-desktop.&lt;br />
+&lt;br />
+MACsimize is a KWin script that moves maximized windows to a new virtual desktop, moves back to original desktop if restored or closed. Each window takes place on a new virtual desktop, there's no need to add desktops manually.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/49/89/03/1235050/902056a42f22792d8f4d21198d19899e39621.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/49/89/03/1235050/902056a42f22792d8f4d21198d19899e39621.gif</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjYzNTA2OTAiLCJvIjoiMSIsInMiOiIwZWYwMWI5NDVlMjRhYjY4ZTY0ZmYzNTc2MzVhY2I4OTc1MjM3YWRhYzYyMmYyMjdmZTYwZGRkZjNlZTRlNGJlZGI1MjgxYmMyMjU2ZDZhMTRiOGU5MzhjNDAxYjFhMjg0YmExNWY3ZTczMjE1YTQwNTQ5YWU5ZTYxMjkxNjRhZCIsInQiOjE2ODcyNjgwMzYsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMjUxLjQ4LjI0OSJ9.lB2Sm5Wy-m2hnMEptgCzojwCUk9nvJZOM24xYvo6xXQ/kwin-macsimize-20180515021810.tar.gz</payload>
+  <tags>source-package,unix,linux,mit-license</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/plasmoids.zip" added="2023-06-20T12:57:25.523000Z" modified="2023-06-20T12:57:25.523000Z" visited="2023-06-20T12:57:25.523000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2023-06-20T12:57:25.523000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Ulauncher-Theme.zip" added="2023-06-20T12:57:51.806000Z" modified="2023-06-20T13:34:14.769000Z" visited="2023-06-20T13:34:14.769000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2023-06-20T12:57:51.806000Z" count="1"/>
+        <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2023-06-20T13:34:14.769000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Lightly-Config.zip" added="2023-06-20T12:58:17.979000Z" modified="2023-06-20T12:58:17.979000Z" visited="2023-06-20T12:58:17.979000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2023-06-20T12:58:17.979000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Icon-Launchpad.zip" added="2023-06-20T12:58:55.262000Z" modified="2023-06-20T14:05:44.707000Z" visited="2023-06-20T14:05:44.707000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2023-06-20T12:58:55.262000Z" count="1"/>
+        <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2023-06-20T14:05:44.707000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Fonts.zip" added="2023-06-20T12:59:13.848000Z" modified="2023-06-20T12:59:13.848000Z" visited="2023-06-20T12:59:13.848000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2023-06-20T12:59:13.848000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Latte-Dock-Config.zip" added="2023-06-20T12:59:40.292000Z" modified="2023-06-20T12:59:40.292000Z" visited="2023-06-20T12:59:40.292000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %u" modified="2023-06-20T12:59:40.292000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/" added="2023-06-20T13:00:26.853000Z" modified="2023-06-20T13:00:26.853000Z" visited="2023-06-20T13:00:26.853000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2023-06-20T13:00:26.853000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Ulauncher-Theme" added="2023-06-20T13:35:06.097000Z" modified="2023-06-20T13:35:06.097000Z" visited="2023-06-20T13:35:06.097000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2023-06-20T13:35:06.097000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Latte-Dock-Config/plasma-monterey.layout.latte" added="2023-06-20T14:04:37.645000Z" modified="2023-06-20T14:04:37.645000Z" visited="2023-06-20T14:04:37.645000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="latte-dock" exec="lattedock %u" modified="2023-06-20T14:04:37.645000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/travisrego/.config/MacOS_KDE/setup/Icon-Launchpad/launchpad.png" added="2023-06-20T14:06:13.842000Z" modified="2023-06-20T14:06:13.842000Z" visited="2023-06-20T14:06:13.842000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="latte-dock" exec="lattedock %u" modified="2023-06-20T14:06:13.842000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2023-06-20T14:57:34.983000Z" modified="2023-06-20T14:57:34.983000Z" visited="2023-06-20T14:57:34.983000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="env UBUNTU_MENUPROXY=0 /usr/lib/firefox/firefox %u %u" modified="2023-06-20T14:57:34.983000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://networkcheck.kde.org" added="2023-06-22T06:51:48.261000Z" modified="2023-06-22T06:51:48.261000Z" visited="2023-06-22T06:51:48.261000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="env UBUNTU_MENUPROXY=0 /usr/lib/firefox/firefox %u %u" modified="2023-06-22T06:51:48.261000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,8 @@
+[FileDialogSize]
+1920x1080 screen: Height=600
+1920x1080 screen: Width=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/.config/MacOS_KDE/setup/plasmoids.zip,file:$HOME/.config/MacOS_KDE/setup/Latte-Dock-Config.zip,file:$HOME/.config/MacOS_KDE/setup/Fonts.zip,file:$HOME/.config/MacOS_KDE/setup/Icon-Launchpad.zip,file:$HOME/.config/MacOS_KDE/setup/Lightly-Config.zip,file:$HOME/.config/MacOS_KDE/setup/Ulauncher-Theme.zip
+Recent URLs[$e]=file:$HOME/.config/MacOS_KDE/setup/,file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16

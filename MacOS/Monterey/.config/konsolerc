@@ -1,0 +1,30 @@
+[Desktop Entry]
+DefaultProfile=Monterey.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1280x800 screen: Height=524
+1280x800 screen: Width=911
+1280x800 screen: XPosition=184
+1280x800 screen: YPosition=130
+1920x1080 screen: Height=670
+1920x1080 screen: Width=962
+1920x1080 screen: XPosition=479
+1920x1080 screen: YPosition=233
+1920x955 screen: Height=524
+1920x955 screen: Width=911
+1920x955 screen: XPosition=504
+1920x955 screen: YPosition=243
+976x622 screen: Height=524
+976x622 screen: Width=911
+976x622 screen: XPosition=32
+976x622 screen: YPosition=41
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAREBAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABeQEAAAMAAAPCAAACcAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAO7/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Virtual-1=Virtual-1
+Virtual1=Virtual1
+
+[UiSettings]
+ColorScheme=

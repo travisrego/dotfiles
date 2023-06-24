@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Region/City
+ZoneinfoDir=/usr/share/zoneinfo
+Zonetab=/usr/share/zoneinfo/zone.tab

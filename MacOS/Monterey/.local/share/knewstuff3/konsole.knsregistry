@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Nordic konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1329371</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>68368</downloads>
+  <installedfile>/home/travisrego/.local/share/konsole/Nordic.colorscheme</installedfile>
+  <id>1329371</id>
+  <releasedate>2019-10-08</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1329371/a8e4ad61130ea319918c9ca217fd145964c71.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1329371/a8e4ad61130ea319918c9ca217fd145964c71.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzA1NjA5MjMiLCJvIjoiMSIsInMiOiJkMDQ3ZTA4OWI4NmQ3MmZlYjI1ZDM5MTIzMTMwOTc4NjNlMWNjYmFkYTY5OTRhY2UwNGY2NTFjZmE4ZDgzMjg0MmZhNDhiOWMyZDIzOWRjNWRmMjNiNDkwYTNhMDUwOTM4MGY5ZTcwZTYyMWU1ODNkYzU0OTc0Nzg0ZjI0MTljYyIsInQiOjE2ODcyODE3MzgsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMjUxLjQ4LjI0OSJ9.VqS5EBDnNBR9dh-jJ3EN6_BHghzW6a0WVdic3L-xd9k/Nordic.colorscheme</payload>
+  <tags>addon,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
